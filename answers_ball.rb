@@ -2,7 +2,7 @@
 
 class AnswersBall
 
-  def get_answerball
+  def answer_ball
     # Массив ответов шара, положительных отрицательных и загадочных.
     answers = ["Бесспорно",
         "Предрешено",
