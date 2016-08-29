@@ -2,7 +2,7 @@
 
 class WordsBall
 
-  def get_wordsball
+  def words_ball
     # Массив для первых фраз при общении с пользователем
     words_text = [
         "Привет, дорогой друг. Отвечаю на твой вопрос...",
